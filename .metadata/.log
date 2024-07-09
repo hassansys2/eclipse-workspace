@@ -1,0 +1,1742 @@
+!SESSION 2019-07-06 21:03:04.394 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-06 21:04:03.568
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-06 21:04:20.791
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-06 21:19:50.393 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-06 21:19:53.200
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-06 21:20:00.794
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:25.659
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.jst.ws.consumption.ui.doc.user_1.0.700.v201903222115 [544]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:25.794
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.jst.ws.axis2.ui.doc.user_1.0.200.v201903222115 [540]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:25.805
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.command.env.doc.user_1.5.400.v201903222115 [780]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:25.926
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.dtdeditor.doc.user_1.1.0.v201903222120 [803]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:25.934
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.jst.j2ee.doc.user_1.1.400.v201903222024 [477]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:26.037
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.xmleditor.doc.user_1.1.0.v201903222120 [898]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:26.043
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.xsdeditor.doc.user_1.0.800.v201903222120 [901]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:26.050
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.jst.ejb.doc.user_1.1.301.v201903222024 [472]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:26.057
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.jst.ws.axis.ui.doc.user_1.1.200.v201903222115 [533]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:26.063
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.wsdl.ui.doc.user_1.0.850.v201903222115 [884]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:26.070
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.webtools.doc.user_1.0.500.v201903222120 [874]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:26.077
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.server.ui.doc.user_1.1.600.v201901310132 [861]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:26.195
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.jst.ws.doc.user_1.0.700.v201903222115 [554]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:26.201
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.wsi.ui.doc.user_1.0.750.v201903222115 [888]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:26.208
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.jst.server.ui.doc.user_1.0.600.v201901310132 [522]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2019-07-06 21:22:26.214
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.sse.doc.user_1.2.0.v201903222120 [864]'. The index should be rebuilt with Lucene 8.0.0
+
+!ENTRY org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help documentation could not be indexed completely.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/filters/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_modelbase_sql_query_sourceWriterExtension.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/ase/catalog/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/hsqldb/catalog/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_sqm_core_ui_addObjectProvider.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/base/catalog/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sql/parser/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sqlite/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/internal/indent/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/commonui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/schema/provider/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/core/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/model/validation/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/design/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/debugger/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/loaders/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/ui/common/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/routines/provider/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/db/derby/sql/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/ingres/models/ingressqlmodel/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/msft/sqlserver/ui/drivers/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/mysql/catalog/loaders/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/core/ui/explorer/filter/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/drivers/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/tableeditor/pages/privileges/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/editor/internal/template/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/ui/dse/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/editor/ui/core/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sql/parser/ast/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/plan/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/tables/provider/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_sqm_core_ui_sorterValidatorProvider.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/editor/ui/internal/core/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_sqleditor_sourceViewerConfiguration.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/catalog/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/routineeditor/commonui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_sql_ui_sqlNodesImage.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/query/provider/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/graph/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/models/sybasesqlmodel/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sqlite/connection/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/ui/export/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/editor/core/connection/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ddl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/models/sybaseasabasesqlmodel/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_routineeditor_ui_documentprovider.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/routineeditor/ui/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ase/ui/drivers/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/tables/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_data_ui_externalTableDataExtract.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/routines/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/spec/result/filter/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_editor_core_dbConfigurations.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.971
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_sqm_core_ui_markerNavigationProvider.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/update/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/ui/dse/dialogs/filters/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ase/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_help_helpKeyProperties.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/graph/commands/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sql/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/models/sybasesqlmodel/impl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/statements/provider/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/routineeditor/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_data_ui_externalTableDataLoad.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_enablement_sybase_deltaDdlGenProvider.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/ui/dse/dnd/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_enablement_sybase_ase_additionalcontroller.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/source/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/expressionbuilder/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/parser/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sap/maxdb/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/expressionbuilder/function/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/input/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_editor_core_ui_dbUIConfigurations.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/core/rte/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/ui/pages/utils/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/hsqldb/ui/catalog/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/ui/utils/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/ase/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/tableeditor/pages/constraints/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_sqm_core_validConnectionHandler.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sqlite/ui/connection/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/ui/pages/intropage/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/export/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/xml/query/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/ase/containment/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/common/ui/helpsystem/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/spec/result/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/schema/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/spec/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/drivers/models/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/loader/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/ui/dse/views/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/core/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/derby/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/mysql/ddl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/execute/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/query/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ase/providers/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.972
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/spec/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/internal/templates/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/datatypes/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/parsers/sql/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/consumer/util/manifest/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sqlite/ui/connection/drivers/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_sqm_core_sqlexceptionHandler.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/routineeditor/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/parsers/sql/query/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ase/models/sybaseasesqlmodel/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sap/maxdb/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/ui/internal/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/parsers/sql/postparse/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/models/sybasesqlmodel/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/internal/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/query/helper/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/routineeditor/ui/launching/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/core/ui/explorer/providers/content/virtual/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/parsers/sql/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/editor/core/result/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/core/containment/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/debugger/debug/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/provider/rdbschema/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/routineeditor/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_sqm_core_databaseRecognition.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/routineeditor/utils/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/parsers/sql/query/postparse/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/ase/deltaddl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/core/rte/fe/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/ui/export/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/debugger/core/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/editor/contentassist/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_sqm_core_ui_filterInformation.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/graph/figures/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/tableeditor/model/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/ui/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/data/internal/core/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/sqlbuilderdialog/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/ui/filters/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_result_resultSetOutputter.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/baseloaders/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/debugger/core/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/virtual/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/expressionbuilder/multiexpr/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/oracle/ui/drivers/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/criteria/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/model/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_schemaobjecteditor_ui_schemaObjectEditor.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/routineeditor/pages/source/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/core/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ui/filter/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/common/ui/dialog/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/tableeditor/pages/columns/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sql/reference/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/udteditor/pages/general/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/internal/profile/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/mysql/ddl/shared/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ase/models/sybaseasesqlmodel/partition/impl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.wst.jsdt.doc/reference/extension-points/org_eclipse_wst_jsdt_core_codeFormatter.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/virtual/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/editor/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/core/ui/explorer/virtual/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sql/updater/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ui/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/expressionbuilder/caseexpr/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/query/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/exceptions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/data/internal/core/extract/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.973
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_oda_design_ui_dataSource.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/ingres/models/ingressqlmodel/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_data_core_columnDataAccessors.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/result/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_ui_driverPropertyEditor.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/debugger/sourcelookup/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/deltaddl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sql/parser/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/common/ui/resource/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/apache/derby/ui/explorer/providers/virtual/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_data_ui_externalTableDataEditor.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/constraints/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/ibm/informix/ui/drivers/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/plan/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/data/internal/ui/extract/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/ingres/models/ingressqlmodel/impl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/core/definition/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/model/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/ui/dse/dialogs/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ase/models/sybaseasesqlmodel/partition/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/internal/actions/selection/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/schema/helper/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ase/virtual/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/data/internal/core/common/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/hsqldb/ui/connection/drivers/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/expressions/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/tableeditor/pages/storage/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_sqleditor_actionExtensions.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/routineeditor/pages/privilege/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/internal/templates/dialog/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/models/sybaseasasqlmodel/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/ui/view/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/sql/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/db/derby/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/routineeditor/ui/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/db/derby/core/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sql/ui/dialogs/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/internal/editor/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/containment/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/routineeditor/model/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/accesscontrol/provider/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_ui_addConnectListener.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/ui/view/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/data/internal/core/common/data/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/tables/helper/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/statements/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/ingres/containment/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/tables/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/core/rte/jdbc/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/spec/manifest/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sql/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/routineeditor/pages/general/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/core/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/expressions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/index/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/mysql/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/core/ui/services/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/models/sybaseasasqlmodel/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/data/internal/ui/editor/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/expressionbuilder/subquery/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/core/mappings/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/routineeditor/parameter/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/debugger/editorext/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/perspectives/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.974
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/common/ui/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/model/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/expressions/provider/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/console/profile/nls/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/internal/utils/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/ddl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/models/sybaseasasqlmodel/impl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/mysql/catalog/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/providers/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/constraints/provider/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/preferences/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_result_ui_parameterViewer.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/utils/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sql/identifier/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/ui/templates/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/ui/extensions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/ui/navigator/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/debugger/launching/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/db/derby/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/accesscontrol/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/db/generic/ui/wizard/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/routineeditor/result/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/design/ui/manifest/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/accesscontrol/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/constraints/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/tableeditor/pages/indexes/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/expressionbuilder/cast/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/ui/navigator/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/parsers/sql/query/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_data_core_tableEditorResultFilter.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_parsers_sql_query_vendorExtension.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sql/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_schemaobjecteditor_ui_pages_introductionPage.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_sqlscrapbook_dbdeffilter.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_modelbase_sql_sqlObjectNameHelper.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/utils/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_sqm_core_metaDataExtension.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.975
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/graph/editparts/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/parsers/sql/lexer/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_plan_planService.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/expressionbuilder/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ase/models/sybaseasesqlmodel/partition/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/services/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/schema/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/ui/dse/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/datatypes/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/design/ui/wizards/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/parsers/sql/xml/query/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/common/ui/tableviewer/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/debugger/core/internal/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/drivers/jdbc/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/preferences/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_sqm_core_ui_creationInfoProvider.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ase/models/sybaseasesqlmodel/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/editor/template/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/internal/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/tableeditor/pages/triggers/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/statements/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/ase/ddl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/routineeditor/action/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/hsqldb/ui/connection/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/design/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/dialogs/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sqlite/driver/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_ui_driverUIContributor.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/model/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_tabledataeditor_externalRunQuery.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sqlite/dbdefcreation/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/tabledataeditor/actions/providers/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.976
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/spec/valueexpr/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_oda_dataSource.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/ui/action/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/expressionbuilder/constant/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/tableeditor/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/routineeditor/plan/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/ui/pages/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/data/internal/ui/load/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/ase/models/sybaseasesqlmodel/impl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/ddl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/db/derby/parser/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/consumer/services/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/db/generic/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/datatypes/provider/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_ui_connectionExceptionHandler.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_sqm_core_mappings.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/fullselect/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/preference/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/common/ui/preferences/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/util/logging/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_sqm_core_ui_elementID.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/containment/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/ui/core/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/ui/viewer/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/tabledataeditor/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/tableeditor/action/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/debugger/perspectives/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/util/manifest/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_debugger_core_sourceLocatorProvider.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_connectivity_ui_connectionProfileImage.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_result_resultListener.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/ui/pages/ddl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/commonui/privilege/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/tableeditor/utils/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/internal/sql/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/mysql/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/debugger/model/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_editor_core_SQLBuilderUIComponentService.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/hsqldb/connection/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/extension-points/org_eclipse_datatools_sqltools_result_ui_resultSetViewer.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/common/ui/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/db/generic/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/sqm/core/connection/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sqlite/loader/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/common/ui/sqlstatementarea/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/ui/wizards/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/debugger/view/internal/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/ui/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/ibm/db2/luw/ui/drivers/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/data/internal/core/editor/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/debugger/breakpoint/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/routines/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/plan/treeplan/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/routineeditor/launching/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/internal/result/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/export/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/data/internal/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/udteditor/action/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlscrapbook/actions/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/tableeditor/commonui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/insert/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/models/sybaseasabasesqlmodel/impl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/derby/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/ase/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sqlite/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/jdt/classpath/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.977
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/data/internal/core/load/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/models/sybaseasabasesqlmodel/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/deltaddl/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqleditor/internal/matching/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/select/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/with/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/modelbase/sql/xml/query/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/connectivity/oda/design/ui/designsession/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/hsqldb/ui/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/views/delete/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sybase/asa/schemaobjecteditor/examples/udteditor/model/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/db/derby/core/services/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/schemaobjecteditor/ui/util/package-summary.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-07-06 21:22:32.978
+!MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/result/internal/ui/export/component/package-summary.html cannot be opened.
+!SESSION 2019-07-06 21:29:09.957 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-06 21:29:13.102
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-06 21:29:22.186
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-06 22:13:03.689 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-06 22:13:06.631
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-06 22:13:14.122
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-08 07:36:25.985 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-08 07:36:42.235
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-08 07:37:03.550
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-08 07:51:46.019 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-08 07:51:49.253
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-08 07:51:57.146
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-08 21:49:53.440 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-08 21:50:13.967
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-08 21:50:39.488
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-09 01:03:25.305 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-09 01:03:40.453
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-09 01:03:57.827
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-12 02:49:10.608 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-12 02:49:33.865
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-12 02:50:06.225
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-12 07:02:48.485 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-12 07:03:08.917
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-12 07:03:33.828
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-15 03:23:23.089 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-07-15 03:23:32.116
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-15 03:23:42.679
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-15 03:24:03.367
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-15 06:10:51.565 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-15 06:11:06.742
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-15 06:11:23.875
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2019-07-15 07:27:41.991
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not write file: D:\Cloud\OneDrive\eclipse-workspace\SocketClientExample\bin\GreetingClient.class.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:48)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openOutputStream(LocalFile.java:434)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1163)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:306)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:342)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:437)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:889)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:879)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:203)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:618)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:475)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:426)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:386)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:371)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:318)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:186)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:279)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:200)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.FileNotFoundException: D:\Cloud\OneDrive\eclipse-workspace\SocketClientExample\bin\GreetingClient.class (The process cannot access the file because it is being used by another process)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:292)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openOutputStream(LocalFile.java:424)
+	... 29 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 272 2019-07-15 07:27:41.993
+!MESSAGE Could not write file: D:\Cloud\OneDrive\eclipse-workspace\SocketClientExample\bin\GreetingClient.class.
+!STACK 0
+java.io.FileNotFoundException: D:\Cloud\OneDrive\eclipse-workspace\SocketClientExample\bin\GreetingClient.class (The process cannot access the file because it is being used by another process)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:292)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openOutputStream(LocalFile.java:424)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1163)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:306)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:342)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:437)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:889)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:879)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:203)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:618)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:475)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:426)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:386)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:371)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:318)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:186)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:279)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:200)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2019-07-15 20:41:29.328 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-15 20:41:32.195
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-15 20:41:37.235
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-15 20:41:37.879
+!MESSAGE Connection to http://download.eclipse.org/releases/2019-06/p2.index failed on No such host is known (download.eclipse.org). Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: No such host is known (download.eclipse.org)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1515)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1006 2019-07-15 20:41:38.106
+!MESSAGE Unknown Host: http://download.eclipse.org/releases/2019-06/compositeContent.xml
+!STACK 0
+java.net.UnknownHostException: download.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:246)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-15 20:41:38.124
+!MESSAGE Connection to http://download.eclipse.org/technology/epp/packages/2019-06/p2.index failed on download.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: download.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-15 20:41:38.345
+!MESSAGE Connection to http://download.eclipse.org/technology/epp/packages/2019-06/content.xml.xz failed on download.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: download.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1006 2019-07-15 20:41:38.555
+!MESSAGE Unknown Host: http://download.eclipse.org/technology/epp/packages/2019-06/content.xml.xz
+!STACK 0
+java.net.UnknownHostException: download.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-15 20:41:38.565
+!MESSAGE Connection to http://download.eclipse.org/oomph/updates/milestone/latest/p2.index failed on download.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: download.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1006 2019-07-15 20:41:38.779
+!MESSAGE Unknown Host: http://download.eclipse.org/oomph/updates/milestone/latest/compositeContent.xml
+!STACK 0
+java.net.UnknownHostException: download.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:246)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-15 20:41:39.209
+!MESSAGE Connection to http://download.eclipse.org/releases/2019-06/201906191000/p2.index failed on download.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: download.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-15 20:41:39.425
+!MESSAGE Connection to http://download.eclipse.org/releases/2019-06/201906191000/content.xml.xz failed on download.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: download.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1006 2019-07-15 20:41:39.634
+!MESSAGE Unknown Host: http://download.eclipse.org/releases/2019-06/201906191000/content.xml.xz
+!STACK 0
+java.net.UnknownHostException: download.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-15 20:41:39.645
+!MESSAGE Connection to http://download.eclipse.org/webtools/repository/latest/p2.index failed on download.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: download.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1006 2019-07-15 20:41:39.861
+!MESSAGE Unknown Host: http://download.eclipse.org/webtools/repository/latest/compositeContent.xml
+!STACK 0
+java.net.UnknownHostException: download.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:246)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-15 20:41:39.871
+!MESSAGE Connection to http://download.eclipse.org/eclipse/updates/4.12/p2.index failed on download.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: download.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1006 2019-07-15 20:41:40.087
+!MESSAGE Unknown Host: http://download.eclipse.org/eclipse/updates/4.12/compositeContent.xml
+!STACK 0
+java.net.UnknownHostException: download.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:246)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2019-07-15 21:31:30.508 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-15 21:31:45.113
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-15 21:32:03.893
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-16 00:40:44.908 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-16 00:40:47.820
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-16 00:40:53.064
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-18 03:06:28.273 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-18 03:06:43.452
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-18 03:07:00.394
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-20 13:30:03.070 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-20 13:30:12.328
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-20 13:30:31.187
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-20 15:22:05.945 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-20 15:22:20.624
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-20 15:22:37.062
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-20 16:41:22.939 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-20 16:41:37.630
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-20 16:41:56.726
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-21 09:11:58.075 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-21 09:12:14.251
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-21 09:12:34.250
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-24 17:56:44.037 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-24 17:56:59.752
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-24 17:57:19.655
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-24 22:26:01.950 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-24 22:26:16.947
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-24 22:26:35.769
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-07-30 13:21:41.645 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-30 13:21:57.209
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-07-30 13:22:17.050
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-08-10 16:29:58.345 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-08-10 16:30:26.764
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-08-10 16:30:54.337
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-30 18:01:19.145 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-12-30 18:01:26.828
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-30 18:01:36.183
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-12-31 01:47:35.081 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-12-31 01:47:44.032
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-31 01:47:54.303
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-04-28 19:28:27.720 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-04-28 19:28:35.799
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-04-28 19:28:43.332
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-08 04:21:37.852 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=12.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-06-08 04:21:46.076
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-08 04:21:57.266
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hassa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
